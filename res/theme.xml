@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="like.png"  />
+    <image name="logo.png"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="SideCommand.bgColor" value="9999ff" />
+        <val key="SideCommand.derive" value="SideCommand" />
+        <font key="SideCommand.font" type="ttf" face="0" style="0" size="0" name="native:ItalicLight" family="native:ItalicLight" sizeSettings="3" actualSize="3.0" />
+        <val key="SideCommand.margin" value="0.0,1.0,0.0,0.0" />
+        <val key="SideCommand.padUnit" value="2,2,2,2" />
+        <val key="SideCommand.padding" value="3.0,3.0,3.0,3.0" />
+        <val key="SideNavigationPanel.bgColor" value="9966ff" />
+        <val key="SideNavigationPanel.fgColor" value="ffffff" />
+        <val key="SideNavigationPanel.transparency" value="255" />
+    </theme>
+</resource>
